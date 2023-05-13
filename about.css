@@ -1,0 +1,18 @@
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(./zakaria-zayane-0uAVsDcyD0M-unsplash.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	min-height: 100px;
+}
+h1{
+    color: white;
+    font-family: Century;
+    text-align: center;
+}
+div{
+    color: white;
+    font-family: Century;
+    text-align:center;
+    font-size: medium;
+}
